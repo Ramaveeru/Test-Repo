@@ -1,11 +1,7 @@
 this is for https testing purpose
 Hi 
 How r u?
-<<<<<<< HEAD
 How is it going?
-=======
 How is it going?
 this is for local branch creation and pushed to remote
 checerrypick command usage
-
->>>>>>> 4cdd93b (cherrypick command usage)
